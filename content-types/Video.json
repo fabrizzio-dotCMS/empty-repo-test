@@ -3,7 +3,7 @@
   "id" : "c77450b834901a20c8193ef9d561ee5b",
   "name" : "Video",
   "variable" : "Video",
-  "modDate" : "2025-08-12T15:23:19.000+00:00",
+  "modDate" : "2025-08-12T17:32:20.000+00:00",
   "iDate" : "2024-06-04T19:00:00.000+00:00",
   "host" : "SYSTEM_HOST",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "2ae69c3d65b5786e4e38720bdecd2f15",
-    "modDate" : "2025-08-12T15:23:19.000+00:00",
+    "modDate" : "2025-08-12T17:32:20.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -61,7 +61,7 @@
     "fieldTypeLabel" : "Binary",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "ee4da804-5ec7-4943-9e7f-8e9c872a2bc1",
+      "id" : "555086a5-cd7e-4a77-82c6-ce8a2ac2248c",
       "fieldId" : "d6cc889c37b3e0d7fd5c9dae31e558b7",
       "name" : null,
       "key" : "accept",
@@ -70,7 +70,7 @@
       "modDate" : null
     }, {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "dee2d653-9fc6-436c-8c9c-272f447fa537",
+      "id" : "f3bc4738-8d57-43d7-9c26-35900b4fb180",
       "fieldId" : "d6cc889c37b3e0d7fd5c9dae31e558b7",
       "name" : null,
       "key" : "systemOptions",
@@ -131,7 +131,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "2ae69c3d65b5786e4e38720bdecd2f15",
-      "modDate" : "2025-08-12T15:23:19.000+00:00",
+      "modDate" : "2025-08-12T17:32:20.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -181,7 +181,7 @@
         "fieldTypeLabel" : "Binary",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "ee4da804-5ec7-4943-9e7f-8e9c872a2bc1",
+          "id" : "555086a5-cd7e-4a77-82c6-ce8a2ac2248c",
           "fieldId" : "d6cc889c37b3e0d7fd5c9dae31e558b7",
           "name" : null,
           "key" : "accept",
@@ -190,7 +190,7 @@
           "modDate" : null
         }, {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "dee2d653-9fc6-436c-8c9c-272f447fa537",
+          "id" : "f3bc4738-8d57-43d7-9c26-35900b4fb180",
           "fieldId" : "d6cc889c37b3e0d7fd5c9dae31e558b7",
           "name" : null,
           "key" : "systemOptions",

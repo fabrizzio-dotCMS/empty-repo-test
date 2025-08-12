@@ -3,7 +3,7 @@
   "id" : "799f176a-d32e-4844-a07c-1b5fcd107578",
   "name" : "Blog",
   "variable" : "Blog",
-  "modDate" : "2025-08-12T15:23:10.000+00:00",
+  "modDate" : "2025-08-12T17:32:17.000+00:00",
   "publishDateVar" : "postingDate",
   "iDate" : "2018-11-28T15:36:04.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
@@ -188,7 +188,7 @@
     "fieldTypeLabel" : "Block Editor",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "9ff98300-89fd-44ec-be69-3ae623e00fb7",
+      "id" : "8f95ee07-4743-4638-926a-f885970f357a",
       "fieldId" : "71fe962eb681c5ffd6cd1623e5fc575a",
       "name" : null,
       "key" : "contentTypes",
@@ -254,7 +254,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "1614b186-b0cb-40ff-89e7-143f83c43dd6",
+      "id" : "428cc9e3-2bf1-41a9-ac8d-dddc0e5f74cc",
       "fieldId" : "9ed170badfe7ce07190b877b66878b19",
       "name" : null,
       "key" : "hideLabel",
@@ -287,7 +287,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "1d4fe800-4e2a-4916-b97f-bb0887532c11",
+      "id" : "8c406744-6ff4-4bfd-a940-0355b3219d54",
       "fieldId" : "225ca9d513e94e09e09a6771cd1dfbe5",
       "name" : null,
       "key" : "hideLabel",
@@ -309,7 +309,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "c1ce5d1a-fa8b-477a-aa0d-c5b0db78a996",
+      "id" : "10c4a0b7-fb8d-486c-80b5-d97746371963",
       "fieldId" : "126ea0213a7169e2a7a4799553900f2b",
       "name" : null,
       "key" : "hideLabel",
@@ -416,7 +416,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "c7e8e06b-5f02-42b5-86a1-a646315f556c",
+      "id" : "e5da6537-4109-4850-bce5-820e36c1b931",
       "fieldId" : "8bf935592e3adeee23eb488a385fbe3f",
       "name" : null,
       "key" : "customFieldOptions",
@@ -484,7 +484,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "e1556e7d-8f5e-45ce-bc2e-9212127d5f8b",
+      "id" : "b9dc84c3-8497-4443-bd32-6ddd8a927f44",
       "fieldId" : "ba48c7dd8152dfae9054e2855cae62a3",
       "name" : null,
       "key" : "hideLabel",
@@ -734,7 +734,7 @@
         "fieldTypeLabel" : "Block Editor",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "9ff98300-89fd-44ec-be69-3ae623e00fb7",
+          "id" : "8f95ee07-4743-4638-926a-f885970f357a",
           "fieldId" : "71fe962eb681c5ffd6cd1623e5fc575a",
           "name" : null,
           "key" : "contentTypes",
@@ -809,7 +809,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "1614b186-b0cb-40ff-89e7-143f83c43dd6",
+          "id" : "428cc9e3-2bf1-41a9-ac8d-dddc0e5f74cc",
           "fieldId" : "9ed170badfe7ce07190b877b66878b19",
           "name" : null,
           "key" : "hideLabel",
@@ -842,7 +842,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "1d4fe800-4e2a-4916-b97f-bb0887532c11",
+          "id" : "8c406744-6ff4-4bfd-a940-0355b3219d54",
           "fieldId" : "225ca9d513e94e09e09a6771cd1dfbe5",
           "name" : null,
           "key" : "hideLabel",
@@ -864,7 +864,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "c1ce5d1a-fa8b-477a-aa0d-c5b0db78a996",
+          "id" : "10c4a0b7-fb8d-486c-80b5-d97746371963",
           "fieldId" : "126ea0213a7169e2a7a4799553900f2b",
           "name" : null,
           "key" : "hideLabel",
@@ -971,7 +971,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "c7e8e06b-5f02-42b5-86a1-a646315f556c",
+          "id" : "e5da6537-4109-4850-bce5-820e36c1b931",
           "fieldId" : "8bf935592e3adeee23eb488a385fbe3f",
           "name" : null,
           "key" : "customFieldOptions",
@@ -1039,7 +1039,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "e1556e7d-8f5e-45ce-bc2e-9212127d5f8b",
+          "id" : "b9dc84c3-8497-4443-bd32-6ddd8a927f44",
           "fieldId" : "ba48c7dd8152dfae9054e2855cae62a3",
           "name" : null,
           "key" : "hideLabel",

@@ -3,7 +3,7 @@
   "id" : "73061f34-7fa0-4f77-9724-5ca0013a0214",
   "name" : "Banner Carousel",
   "variable" : "BannerCarousel",
-  "modDate" : "2025-08-12T15:23:08.000+00:00",
+  "modDate" : "2025-08-12T17:32:16.000+00:00",
   "iDate" : "2019-08-21T16:51:44.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "44293669-cb1f-4698-bb46-89f5bc1c04e4",
-    "modDate" : "2025-08-12T15:23:08.000+00:00",
+    "modDate" : "2025-08-12T17:32:16.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -139,7 +139,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "44293669-cb1f-4698-bb46-89f5bc1c04e4",
-      "modDate" : "2025-08-12T15:23:08.000+00:00",
+      "modDate" : "2025-08-12T17:32:16.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",

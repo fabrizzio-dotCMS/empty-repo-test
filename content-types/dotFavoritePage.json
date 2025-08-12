@@ -3,7 +3,7 @@
   "id" : "ce930143870e11569f93f8a9fff5da19",
   "name" : "Dot Favorite Page",
   "variable" : "dotFavoritePage",
-  "modDate" : "2025-08-12T15:23:08.000+00:00",
+  "modDate" : "2025-08-12T17:32:16.000+00:00",
   "iDate" : "2022-12-02T21:42:18.000+00:00",
   "host" : "SYSTEM_HOST",
   "folder" : "SYSTEM_FOLDER",
@@ -15,7 +15,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "5b5bd2178dbf0e54d993ab5dc1953eda",
-    "modDate" : "2025-08-12T15:23:08.000+00:00",
+    "modDate" : "2025-08-12T17:32:16.000+00:00",
     "name" : "Row Field",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -85,7 +85,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "5b5bd2178dbf0e54d993ab5dc1953eda",
-      "modDate" : "2025-08-12T15:23:08.000+00:00",
+      "modDate" : "2025-08-12T17:32:16.000+00:00",
       "name" : "Row Field",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",

@@ -3,7 +3,7 @@
   "id" : "ce7295c8-df36-46c0-9c98-2fb764e9ec1c",
   "name" : "Call to Action",
   "variable" : "CallToAction",
-  "modDate" : "2025-08-12T15:23:09.000+00:00",
+  "modDate" : "2025-08-12T17:32:17.000+00:00",
   "iDate" : "2019-10-07T13:22:18.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -15,7 +15,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "8c683bc7-f18a-4ddb-a524-27f118618153",
-    "modDate" : "2025-08-12T15:23:09.000+00:00",
+    "modDate" : "2025-08-12T17:32:17.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -95,7 +95,7 @@
     "fieldTypeLabel" : "WYSIWYG",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "001d2660-166f-4973-bd8a-1a20b232d0c7",
+      "id" : "bc07538f-c605-41b0-a764-98f4f4f1888c",
       "fieldId" : "6030693a-51ca-40ea-ad0e-8ae1c8cc46b7",
       "name" : null,
       "key" : "tinymceprops",
@@ -127,7 +127,7 @@
     "fieldTypeLabel" : "Binary",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "abdfeb2c-c982-42e5-b8b1-0ef70fde62ab",
+      "id" : "c0afc1b4-c19d-4add-b01c-c7faf76c9fb2",
       "fieldId" : "579d255a-2072-4060-9fae-68d70811dafc",
       "name" : null,
       "key" : "accept",
@@ -266,7 +266,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "8c683bc7-f18a-4ddb-a524-27f118618153",
-      "modDate" : "2025-08-12T15:23:09.000+00:00",
+      "modDate" : "2025-08-12T17:32:17.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -355,7 +355,7 @@
         "fieldTypeLabel" : "WYSIWYG",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "001d2660-166f-4973-bd8a-1a20b232d0c7",
+          "id" : "bc07538f-c605-41b0-a764-98f4f4f1888c",
           "fieldId" : "6030693a-51ca-40ea-ad0e-8ae1c8cc46b7",
           "name" : null,
           "key" : "tinymceprops",
@@ -390,7 +390,7 @@
         "fieldTypeLabel" : "Binary",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "abdfeb2c-c982-42e5-b8b1-0ef70fde62ab",
+          "id" : "c0afc1b4-c19d-4add-b01c-c7faf76c9fb2",
           "fieldId" : "579d255a-2072-4060-9fae-68d70811dafc",
           "name" : null,
           "key" : "accept",

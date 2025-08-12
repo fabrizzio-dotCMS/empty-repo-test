@@ -3,7 +3,7 @@
   "id" : "f52275b5-7595-4f89-8375-8bb1266437a5",
   "name" : "Product Line",
   "variable" : "ProductLineLandingPage",
-  "modDate" : "2025-08-12T15:23:11.000+00:00",
+  "modDate" : "2025-08-12T17:32:18.000+00:00",
   "iDate" : "2019-07-30T20:36:11.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "92c105fa-2e4f-4cc3-8be9-338241402db3",
-    "modDate" : "2025-08-12T15:23:10.000+00:00",
+    "modDate" : "2025-08-12T17:32:18.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -107,7 +107,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "32a175c0-7181-409b-bd23-c1fc4a252742",
+      "id" : "1cfc4043-a31f-489e-bec9-17e2f057f110",
       "fieldId" : "7b1c80fd-c2a7-4db7-b47a-fb093ed10a43",
       "name" : null,
       "key" : "customFieldOptions",
@@ -551,7 +551,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "92c105fa-2e4f-4cc3-8be9-338241402db3",
-      "modDate" : "2025-08-12T15:23:10.000+00:00",
+      "modDate" : "2025-08-12T17:32:18.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -647,7 +647,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "32a175c0-7181-409b-bd23-c1fc4a252742",
+          "id" : "1cfc4043-a31f-489e-bec9-17e2f057f110",
           "fieldId" : "7b1c80fd-c2a7-4db7-b47a-fb093ed10a43",
           "name" : null,
           "key" : "customFieldOptions",

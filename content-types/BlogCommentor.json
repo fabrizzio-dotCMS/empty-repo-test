@@ -3,7 +3,7 @@
   "id" : "fe719cc1-26d1-499f-8702-c6d35c661286",
   "name" : "Blog Commenter",
   "variable" : "BlogCommentor",
-  "modDate" : "2025-08-12T15:23:11.000+00:00",
+  "modDate" : "2025-08-12T17:32:18.000+00:00",
   "iDate" : "2019-04-12T21:06:08.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "fd08b148-98b7-4de5-b6c1-3b184e7b6f71",
-    "modDate" : "2025-08-12T15:23:11.000+00:00",
+    "modDate" : "2025-08-12T17:32:17.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -121,7 +121,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "fd08b148-98b7-4de5-b6c1-3b184e7b6f71",
-      "modDate" : "2025-08-12T15:23:11.000+00:00",
+      "modDate" : "2025-08-12T17:32:17.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",

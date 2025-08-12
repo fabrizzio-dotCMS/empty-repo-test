@@ -3,7 +3,7 @@
   "id" : "9d8cba31-0072-4c38-96db-8b619f2b57ab",
   "name" : "Code Snippet ",
   "variable" : "SimpleWidget",
-  "modDate" : "2025-08-12T15:23:17.000+00:00",
+  "modDate" : "2025-08-12T17:32:17.000+00:00",
   "iDate" : "2011-06-27T14:30:36.393+00:00",
   "host" : "SYSTEM_HOST",
   "folder" : "SYSTEM_FOLDER",
@@ -15,7 +15,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "7c4c6cf1-361d-4ccf-b3e5-423d260e3be0",
-    "modDate" : "2025-08-12T15:23:16.000+00:00",
+    "modDate" : "2025-08-12T17:32:17.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -124,7 +124,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "7c4c6cf1-361d-4ccf-b3e5-423d260e3be0",
-      "modDate" : "2025-08-12T15:23:16.000+00:00",
+      "modDate" : "2025-08-12T17:32:17.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",

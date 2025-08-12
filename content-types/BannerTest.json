@@ -3,7 +3,7 @@
   "id" : "86ea4ecc9c46f883d68c15d136749790",
   "name" : "Banner_test",
   "variable" : "BannerTest",
-  "modDate" : "2025-08-12T15:23:15.000+00:00",
+  "modDate" : "2025-08-12T17:32:21.000+00:00",
   "iDate" : "2017-03-09T19:15:45.734+00:00",
   "host" : "SYSTEM_HOST",
   "folder" : "SYSTEM_FOLDER",
@@ -15,7 +15,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "5041d3c994c44c82d5c64d23c6f8ff29",
-    "modDate" : "2025-08-12T15:23:13.000+00:00",
+    "modDate" : "2025-08-12T17:32:21.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -74,7 +74,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "5ddb33c1-a11b-4590-aeb7-e48bebf518f4",
+      "id" : "d663b544-6413-41ff-9c51-973d92a2c742",
       "fieldId" : "22797b620cda13b299ef73639f9c749b",
       "name" : null,
       "key" : "hideLabel",
@@ -121,7 +121,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "d80397df-09f2-4a6c-8c2d-ac1919482c26",
+      "id" : "02547c2c-b1bc-4f2f-951b-eeeb33ac94ba",
       "fieldId" : "a714f46b974699b6e200e3206202735a",
       "name" : null,
       "key" : "customFieldOptions",
@@ -179,7 +179,7 @@
     "fieldTypeLabel" : "Custom Field",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "946b8033-7726-4b36-820a-525b958e74b9",
+      "id" : "933a0fd3-46c0-4345-8940-6984c4278872",
       "fieldId" : "512e25516975c7f605f11a37dc2b0b4d",
       "name" : null,
       "key" : "customFieldOptions",
@@ -229,7 +229,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "5041d3c994c44c82d5c64d23c6f8ff29",
-      "modDate" : "2025-08-12T15:23:13.000+00:00",
+      "modDate" : "2025-08-12T17:32:21.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -291,7 +291,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "5ddb33c1-a11b-4590-aeb7-e48bebf518f4",
+          "id" : "d663b544-6413-41ff-9c51-973d92a2c742",
           "fieldId" : "22797b620cda13b299ef73639f9c749b",
           "name" : null,
           "key" : "hideLabel",
@@ -344,7 +344,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "d80397df-09f2-4a6c-8c2d-ac1919482c26",
+          "id" : "02547c2c-b1bc-4f2f-951b-eeeb33ac94ba",
           "fieldId" : "a714f46b974699b6e200e3206202735a",
           "name" : null,
           "key" : "customFieldOptions",
@@ -402,7 +402,7 @@
         "fieldTypeLabel" : "Custom Field",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "946b8033-7726-4b36-820a-525b958e74b9",
+          "id" : "933a0fd3-46c0-4345-8940-6984c4278872",
           "fieldId" : "512e25516975c7f605f11a37dc2b0b4d",
           "name" : null,
           "key" : "customFieldOptions",

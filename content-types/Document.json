@@ -3,7 +3,7 @@
   "id" : "04c1218161d5378bf4e840a1eb38effe",
   "name" : "Document",
   "variable" : "Document",
-  "modDate" : "2025-08-12T15:23:07.000+00:00",
+  "modDate" : "2025-08-12T17:32:16.000+00:00",
   "iDate" : "2024-06-03T19:51:44.000+00:00",
   "host" : "SYSTEM_HOST",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "e1d44128822e8db77a36c4c5652ea79c",
-    "modDate" : "2025-08-12T15:23:06.000+00:00",
+    "modDate" : "2025-08-12T17:32:16.000+00:00",
     "name" : "Row Field",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -61,7 +61,7 @@
     "fieldTypeLabel" : "Binary",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "7aaf2733-a624-43cd-9a6b-6ad1a22dabbe",
+      "id" : "c6fc0eaf-5f9e-44e2-8c74-62f632edf287",
       "fieldId" : "816e5d1b44d614cfa443a4e0b009f641",
       "name" : null,
       "key" : "accept",
@@ -70,7 +70,7 @@
       "modDate" : null
     }, {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "b540c8bc-434f-45f8-9c3f-8b09d505aeed",
+      "id" : "72b49718-7d80-4e79-ab9e-c8fcd1d41c0f",
       "fieldId" : "816e5d1b44d614cfa443a4e0b009f641",
       "name" : null,
       "key" : "systemOptions",
@@ -98,7 +98,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "e1d44128822e8db77a36c4c5652ea79c",
-      "modDate" : "2025-08-12T15:23:06.000+00:00",
+      "modDate" : "2025-08-12T17:32:16.000+00:00",
       "name" : "Row Field",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -148,7 +148,7 @@
         "fieldTypeLabel" : "Binary",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "7aaf2733-a624-43cd-9a6b-6ad1a22dabbe",
+          "id" : "c6fc0eaf-5f9e-44e2-8c74-62f632edf287",
           "fieldId" : "816e5d1b44d614cfa443a4e0b009f641",
           "name" : null,
           "key" : "accept",
@@ -157,7 +157,7 @@
           "modDate" : null
         }, {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "b540c8bc-434f-45f8-9c3f-8b09d505aeed",
+          "id" : "72b49718-7d80-4e79-ab9e-c8fcd1d41c0f",
           "fieldId" : "816e5d1b44d614cfa443a4e0b009f641",
           "name" : null,
           "key" : "systemOptions",

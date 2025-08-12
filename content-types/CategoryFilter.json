@@ -3,7 +3,7 @@
   "id" : "8a1866cb-2766-4a46-a804-b9550e77ae2d",
   "name" : "Category Filter",
   "variable" : "CategoryFilter",
-  "modDate" : "2025-08-12T15:23:10.000+00:00",
+  "modDate" : "2025-08-12T17:32:18.000+00:00",
   "iDate" : "2020-06-03T14:23:09.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -14,7 +14,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "4fa2a93d-8715-4183-90d8-f59ce3f6e7ce",
-    "modDate" : "2025-08-12T15:23:10.000+00:00",
+    "modDate" : "2025-08-12T17:32:18.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -96,7 +96,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "4fa2a93d-8715-4183-90d8-f59ce3f6e7ce",
-      "modDate" : "2025-08-12T15:23:10.000+00:00",
+      "modDate" : "2025-08-12T17:32:18.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",

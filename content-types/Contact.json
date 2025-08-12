@@ -3,7 +3,7 @@
   "id" : "897cf4a9-171a-4204-accb-c1b498c813fe",
   "name" : "Contact Us",
   "variable" : "Contact",
-  "modDate" : "2025-08-12T15:23:17.000+00:00",
+  "modDate" : "2025-08-12T17:32:17.000+00:00",
   "iDate" : "2019-07-17T17:23:36.000+00:00",
   "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
   "folder" : "SYSTEM_FOLDER",
@@ -15,7 +15,7 @@
   "fields" : [ {
     "clazz" : "RowField",
     "id" : "4825beb5-4f85-4296-bccc-de6243713a98",
-    "modDate" : "2025-08-12T15:23:17.000+00:00",
+    "modDate" : "2025-08-12T17:32:17.000+00:00",
     "name" : "fields-0",
     "fieldType" : "Row",
     "fieldTypeLabel" : "Row",
@@ -156,7 +156,7 @@
     "fieldTypeLabel" : "Binary",
     "fieldVariables" : [ {
       "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-      "id" : "8c578813-1ebe-4cd2-9ca6-73cac54649f0",
+      "id" : "5291b8fd-1e4f-486f-8958-e6e7a93412d5",
       "fieldId" : "17c86833-c9fd-4baf-bc99-582f66caee60",
       "name" : null,
       "key" : "accept",
@@ -282,7 +282,7 @@
     "divider" : {
       "clazz" : "RowField",
       "id" : "4825beb5-4f85-4296-bccc-de6243713a98",
-      "modDate" : "2025-08-12T15:23:17.000+00:00",
+      "modDate" : "2025-08-12T17:32:17.000+00:00",
       "name" : "fields-0",
       "fieldType" : "Row",
       "fieldTypeLabel" : "Row",
@@ -432,7 +432,7 @@
         "fieldTypeLabel" : "Binary",
         "fieldVariables" : [ {
           "clazz" : "com.dotcms.contenttype.model.field.ImmutableFieldVariable",
-          "id" : "8c578813-1ebe-4cd2-9ca6-73cac54649f0",
+          "id" : "5291b8fd-1e4f-486f-8958-e6e7a93412d5",
           "fieldId" : "17c86833-c9fd-4baf-bc99-582f66caee60",
           "name" : null,
           "key" : "accept",
