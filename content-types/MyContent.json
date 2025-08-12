@@ -1,0 +1,95 @@
+{
+  "clazz" : "SimpleContentType",
+  "id" : "5a7a67f1c45aea22725a06d07c097c31",
+  "name" : "MyContent",
+  "variable" : "MyContent",
+  "modDate" : "2025-08-12T16:32:49.000+00:00",
+  "iDate" : "2025-08-12T16:32:23.000+00:00",
+  "host" : "48190c8c-42c4-46af-8d1a-0cd5db894797",
+  "folder" : "SYSTEM_FOLDER",
+  "siteName" : "demo.dotcms.com",
+  "folderPath" : "/",
+  "icon" : "event_note",
+  "baseType" : "CONTENT",
+  "fields" : [ {
+    "clazz" : "RowField",
+    "id" : "03c978643f9e2788a6724b10f49c9fc3",
+    "modDate" : "2025-08-12T16:32:28.000+00:00",
+    "name" : "fields-0",
+    "fieldType" : "Row",
+    "fieldTypeLabel" : "Row",
+    "iDate" : "2025-08-12T16:32:23.000+00:00",
+    "variable" : "fields0",
+    "dataType" : "SYSTEM"
+  }, {
+    "clazz" : "ColumnField",
+    "id" : "050923f8486ec4e89fa735525ffa9c39",
+    "modDate" : "2025-08-12T16:32:28.000+00:00",
+    "name" : "fields-1",
+    "sortOrder" : 1,
+    "fieldType" : "Column",
+    "fieldTypeLabel" : "Column",
+    "iDate" : "2025-08-12T16:32:23.000+00:00",
+    "variable" : "fields1",
+    "dataType" : "SYSTEM"
+  }, {
+    "clazz" : "TextField",
+    "id" : "b941010ef6a9f1398b43c1270dba757e",
+    "modDate" : "2025-08-12T16:32:28.000+00:00",
+    "name" : "title",
+    "variable" : "title",
+    "sortOrder" : 2,
+    "fieldType" : "Text",
+    "fieldTypeLabel" : "Text",
+    "iDate" : "2025-08-12T16:32:28.000+00:00",
+    "dataType" : "TEXT"
+  } ],
+  "layout" : [ {
+    "divider" : {
+      "clazz" : "RowField",
+      "id" : "03c978643f9e2788a6724b10f49c9fc3",
+      "modDate" : "2025-08-12T16:32:28.000+00:00",
+      "name" : "fields-0",
+      "fieldType" : "Row",
+      "fieldTypeLabel" : "Row",
+      "iDate" : "2025-08-12T16:32:23.000+00:00",
+      "variable" : "fields0",
+      "dataType" : "SYSTEM"
+    },
+    "columns" : [ {
+      "columnDivider" : {
+        "clazz" : "ColumnField",
+        "id" : "050923f8486ec4e89fa735525ffa9c39",
+        "modDate" : "2025-08-12T16:32:28.000+00:00",
+        "name" : "fields-1",
+        "sortOrder" : 1,
+        "fieldType" : "Column",
+        "fieldTypeLabel" : "Column",
+        "iDate" : "2025-08-12T16:32:23.000+00:00",
+        "variable" : "fields1",
+        "dataType" : "SYSTEM"
+      },
+      "fields" : [ {
+        "clazz" : "TextField",
+        "id" : "b941010ef6a9f1398b43c1270dba757e",
+        "modDate" : "2025-08-12T16:32:28.000+00:00",
+        "name" : "title",
+        "variable" : "title",
+        "sortOrder" : 2,
+        "fieldType" : "Text",
+        "fieldTypeLabel" : "Text",
+        "iDate" : "2025-08-12T16:32:28.000+00:00",
+        "dataType" : "TEXT"
+      } ]
+    } ]
+  } ],
+  "metadata" : {
+    "CONTENT_EDITOR2_ENABLED" : true
+  },
+  "workflows" : [ {
+    "id" : "d61a59e1-a49c-46f2-a929-db2b4bfa88b2",
+    "variableName" : "SystemWorkflow"
+  } ],
+  "systemActionMappings" : { },
+  "dotCMSObjectType" : "ContentType"
+}
